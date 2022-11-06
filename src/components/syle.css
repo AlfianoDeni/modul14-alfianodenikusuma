@@ -1,0 +1,27 @@
+.judul{
+    background-color: #3B9AE1;
+    color: #fff;
+    padding: 50px;
+    margin-top: 0px;
+    text-align: center;
+}
+.judultb{
+    background-color: #6fb9f1;
+}
+.tabell{
+    border: 2px;
+}
+.footer{
+    margin-top: 5%;
+    background-color: #3B9AE1;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+}
+.foot{
+    margin: 2px;
+}
+
+.Nav{
+    background-color: #6fb9f1;
+}

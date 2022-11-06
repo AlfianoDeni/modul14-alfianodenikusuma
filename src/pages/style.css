@@ -1,0 +1,55 @@
+
+/* .contact{
+    padding: 35px;
+    padding-left: 40px;
+} */
+.whatsapp{
+    padding: 35px;
+    padding-left: 50px;
+    display: flex;
+    justify-content: center;
+}
+.facebook{
+    padding: 35px;
+    display: flex;
+    justify-content: center;
+}
+.instagram{
+    padding: 35px;
+    display: flex;
+    justify-content: center;
+}
+.sosmed h4{
+    padding-left: 8px;
+    padding-top: 3px;
+}
+.profil{
+    height: 300px;
+    width: 255px;
+}
+.name{
+    padding: 50px 0px 50px 30px;
+
+}
+.tk{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.foto{
+    height: 300px;
+    width: 255px;
+}
+.myweb{
+    display: flex;
+    justify-content: center;
+}
+.text{
+    padding-left: 10px;
+    padding-top: 100px;
+}
+.text p{
+    margin: 0px;
+}
+.me h6{
+    padding-bottom: 10px;
+}
